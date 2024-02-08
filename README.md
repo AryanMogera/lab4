@@ -14,4 +14,11 @@
 
 ## Screenshots
 
+### Exercise B
+![Exercise B final output](./ExcerciseB.gif)
+
+### Exercise C
+![Exercise C final output](./ExcerciseC.gif)
+
+
 
